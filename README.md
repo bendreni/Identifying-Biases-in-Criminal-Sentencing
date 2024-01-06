@@ -43,9 +43,3 @@ This project investigates biases in the court system and criminal sentencing by 
 ## Future Work
 - Implementing advanced machine learning models (e.g., random forest classifiers) for improved feature importance analysis.
 - Exploring datasets with more comprehensive variables to understand their impact on sentencing outcomes.
-
-## Contributors
-- Priyanka Adhikari
-- Ruchira Banerjee
-- Nidhi Bendre
-- Simone Kaplunov
