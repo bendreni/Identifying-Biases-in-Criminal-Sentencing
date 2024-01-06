@@ -49,6 +49,3 @@ This project investigates biases in the court system and criminal sentencing by 
 - Ruchira Banerjee
 - Nidhi Bendre
 - Simone Kaplunov
-
-## Acknowledgments
-- Professor [Professor Name] for guidance and support.
